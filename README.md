@@ -15,7 +15,7 @@ There are several examples of sudoku puzzles in the repo, more are avialable her
 Puzzle should be piped to the binary. Format - flattened array without spaces.
 
 ```
-cat example_evil.txt | ./sudoku_solver
+cat evil_example.txt | ./sudoku_solver
 ```
 ##TODO
 Some thoughts on how to improve the code and algo, but since it already works, I was lazy to do so.
